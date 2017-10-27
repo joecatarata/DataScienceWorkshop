@@ -1,0 +1,15 @@
+Feature - attribute or characteristic
+Sample - one line of data
+e.g. 0, 3, Braund.. , male, 22, 1, 0
+Label = "classification"
+
+After looking at data
+1. Formulate research questions.
+	e.g. What characteristics should you have to survive the titanic?
+			-gender
+			-age
+			-# of siblings/parent/children
+
+		Does gender have anything to do with surviving?	
+		Does age have anything to do with surviving?
+		0- 9
